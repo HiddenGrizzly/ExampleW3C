@@ -1,0 +1,46 @@
+body {
+    background-image: url(/image/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:gray;
+    color: darkred;
+}
+main {
+    text-align: center;
+}
+header {
+    width: 80%;
+    height: 20%;
+    text-align: center;
+}
+footer {
+    width: 80%;
+    height: 20%;
+    text-align: center;
+}
+table {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    border: 1px tomato;
+    border-radius: 1px;
+    border-collapse: collapse;
+}
+th {
+    text-align: center;
+}
+a:link {
+    color: crimson;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: brown;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
